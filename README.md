@@ -1,2 +1,1 @@
-# Pruebaa
-Prueba de laboratorio
+# Laboratorio-1
